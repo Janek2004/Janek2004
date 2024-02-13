@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Janek2004
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning React.JS, ReactNative, Javascript and Python 😍
-- 💞️ I’m looking to collaborate on ... nothing! Just making projects here!
 - 📫 How to reach me jan.zagorski04@gmail.com
 
 <!---
