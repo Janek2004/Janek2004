@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @Janek2004
-- 👀 I’m interested in programming
-- 🌱 I’m currently learning React.JS, ReactNative, Javascript and Python 😍
-- 📫 How to reach me jan.zagorski04@gmail.com
+
+hii ^-^
 
 <!---
 Janek2004/Janek2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
